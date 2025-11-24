@@ -83,10 +83,7 @@ It is ideal for beginners learning **Object-Oriented Programming (OOP)** concept
 
 ## **📸 Screenshots / Program Output**
 
-### **🖥️ Sample Console Output**
-
-*(Add your screenshot here if you want)*
-![Sample Output](https://via.placeholder.com/900x300?text=Sample+Program+Output)
+<img width="1024" height="1024" alt="ChatGPT Image Nov 24, 2025, 02_55_43 PM" src="https://github.com/user-attachments/assets/24a20230-4177-476b-b95f-06ff92bb8897" />
 
 ```
 Initial Balance: 5000.0
@@ -119,9 +116,9 @@ java BankAccountTest
 ## **👤 Developer Details **
 
 **Name:** Lewins Mureithi Nderitu (Lewins Luiz)
-📱 **Phone:** +254 112876340
-📧 **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
-🐙 **GitHub:** [https://github.com/King-luiz](https://github.com/King-luiz)
+*📱 **Phone:** +254 112876340
+*📧 **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
+*🐙 **GitHub:** [https://github.com/King-luiz](https://github.com/King-luiz)
 
 ---
 
