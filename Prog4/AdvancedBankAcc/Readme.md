@@ -1,9 +1,4 @@
 
-# <p align="center">
-
-  <img src="https://via.placeholder.com/900x250/0f0f0f/ffffff?text=Interactive+BankAccount+System+%7C+Java+Project" />  
-</p>
-
 # **Interactive BankAccount Program – Java (Advanced Version)**
 
 This project is an **enhanced and interactive version** of the basic BankAccount program.
@@ -107,8 +102,8 @@ Fully encapsulated `BankAccount` class with:
 ---
 
 ## **🖥️ Sample Program Output**
+<img width="1536" height="1024" alt="ChatGPT Image Nov 24, 2025, 03_08_49 PM" src="https://github.com/user-attachments/assets/221dace2-46d0-4550-a00d-9c797b5b11b1" />
 
-![Interactive Demo](https://via.placeholder.com/900x350/1c1c1c/ffffff?text=Interactive+BankAccount+Console+Demo)
 
 ```
 Enter initial balance: 5000
@@ -146,12 +141,12 @@ java BankAccountInteractive
 ---
 
 ## **👤 Developer Information**
-
+```
 **Name:** Lewins Mureithi Nderitu (Lewins Luiz)
-📱 **Phone:** +254 112876340
-📧 **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
-🐙 **GitHub:** [https://github.com/King-luiz](https://github.com/King-luiz)
-
+📱  Phone: +254 112876340
+📧 Email:  mureithilewins@gmail.com
+🐙 GitHub: https://github.com/King-luiz](https://github.com/King-luiz
+```
 ---
 
 ## **⭐ Support & Feedback**
