@@ -142,7 +142,7 @@ java BankAccountInteractive
 
 ## **👤 Developer Information**
 ```
-**Name:** Lewins Mureithi Nderitu (Lewins Luiz)
+Name: Lewins Mureithi Nderitu (Lewins Luiz)
 📱  Phone: +254 112876340
 📧 Email:  mureithilewins@gmail.com
 🐙 GitHub: https://github.com/King-luiz](https://github.com/King-luiz
