@@ -1,82 +1,92 @@
 # **BankAccount Class – Java Program**
 
+A simple but well-structured Java project demonstrating OOP concepts such as encapsulation, validation, and method operations.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Encapsulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Beginner Friendly-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+
+---
+
 ## **📌 Project Overview**
 
-This Java project demonstrates a simple **BankAccount system** with functionalities such as:
+This Java program simulates a basic **Bank Account system**, allowing you to:
 
-* Creating an account with an initial balance
-* Depositing money
-* Withdrawing money with validation
-* Checking the current balance
+* Create a bank account with an initial balance
+* Deposit money
+* Withdraw money (with proper validation)
+* View the updated balance
 
-It showcases **object-oriented programming (OOP)** concepts like classes, methods, encapsulation, and constructors.
-
----
-
-## **📂 Features**
-
-### ✔️ **Deposit Money**
-
-* Accepts only positive amounts
-* Updates the account balance
-* Displays a confirmation message
-
-### ✔️ **Withdraw Money**
-
-* Prevents withdrawals greater than the balance
-* Rejects negative or zero withdrawal amounts
-* Displays appropriate error messages
-
-### ✔️ **Check Balance**
-
-* Returns the current account balance
+It is ideal for beginners learning **Object-Oriented Programming (OOP)** concepts in Java.
 
 ---
 
-## **🧱 Project Structure**
+## **🛠️ Features**
 
-```
-BankAccount.java
-BankAccountTest.java
-```
+### ✔️ Deposit Money
 
-### **BankAccount.java**
+* Allows only positive deposit amounts
+* Updates the balance
+* Prints confirmation messages
 
-Contains the BankAccount class with:
+### ✔️ Withdraw Money
 
-* `deposit()`
-* `withdraw()`
-* `getBalance()`
+* Prevents withdrawing more than the available balance
+* Rejects non-positive withdrawal amounts
+* Displays clear error messages
 
-### **BankAccountTest.java**
+### ✔️ Check Balance
 
-Runs and demonstrates:
-
-* Initial balance
-* Deposits
-* Withdrawals
-* Final balance
+* Returns and displays the current account balance
 
 ---
 
-## **🚀 How to Run**
-
-1. Save both files (`BankAccount` and `BankAccountTest`) in the same folder.
-2. Compile the program using:
+## **📂 Project Structure**
 
 ```
-javac BankAccountTest.java
-```
-
-3. Run the program:
-
-```
-java BankAccountTest
+├── BankAccount.java       # Main BankAccount class
+└── BankAccountTest.java   # Testing and demonstration class
 ```
 
 ---
 
-## **📘 Sample Output**
+## **📝 Code Diagram (Flow Overview)**
+
+```
+   ┌──────────────────────┐
+   │  Create Account       │
+   │  (initial balance)    │
+   └──────────┬───────────┘
+              │
+              ▼
+   ┌──────────────────────┐
+   │      Deposit()       │
+   └──────────┬───────────┘
+              │
+              ▼
+   ┌──────────────────────┐
+   │     Withdraw()       │
+   └──────────┬───────────┘
+              │
+              ▼
+   ┌──────────────────────┐
+   │     getBalance()     │
+   └──────────────────────┘
+```
+
+---
+
+## **📸 Screenshots / Program Output**
+
+### **🖥️ Sample Console Output**
+
+*(Add your screenshot here if you want)*
+![Sample Output](https://via.placeholder.com/900x300?text=Sample+Program+Output)
 
 ```
 Initial Balance: 5000.0
@@ -88,9 +98,35 @@ Final Balance: 5400.0
 
 ---
 
-## **📞 Contact**
+## **🚀 How to Run the Project**
 
-**Developer:** Lewins Mureithi Nderitu (Lewins Luiz)
+### **1. Compile**
+
+```bash
+javac BankAccountTest.java
+```
+
+### **2. Run**
+
+```bash
+java BankAccountTest
+```
+
+---
+
+---
+
+## **👤 Developer Details **
+
+**Name:** Lewins Mureithi Nderitu (Lewins Luiz)
 📱 **Phone:** +254 112876340
 📧 **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
-🔗 **GitHub:** [https://github.com/King-luiz](https://github.com/King-luiz)
+🐙 **GitHub:** [https://github.com/King-luiz](https://github.com/King-luiz)
+
+---
+
+## **⭐ Show Your Support**
+
+If this project helped you, consider giving it a **star ⭐ on GitHub**!
+
+---
